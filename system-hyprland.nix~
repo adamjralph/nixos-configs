@@ -22,7 +22,6 @@
   hardware = {
     # Hardware graphics 
     graphics.enable = true;
-    bluetooth.enable = true;
   };
 
   # Load nvidia driver for Xorg and Wayland
